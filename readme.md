@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [fazla.dev/blog](fazla.dev/blog)
 
-- 💬 Ask me about **Agency**
+- 💬 Ask me about **ANything Related to Digital Marketing Agency**
 
 - 📫 How to reach me **hi@fazla.dev**
 
