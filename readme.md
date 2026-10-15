@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **AI APPS**
 
-- 👨‍💻 All of my projects are available at [fazla.dev](fazla.dev)
+- 👨‍💻 All of my projects are available at [https://fazla.dev](https://fazla.dev)
 
 - 📝 I regularly write articles on [fazla.dev/blog](fazla.dev/blog)
 
