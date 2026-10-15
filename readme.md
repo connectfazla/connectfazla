@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Content AI**
 
-- 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **AI APPS**
 
 - 👨‍💻 All of my projects are available at [fazla.dev](fazla.dev)
